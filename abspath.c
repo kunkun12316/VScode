@@ -186,6 +186,9 @@ static char *strbuf_realpath_1(struct strbuf *resolved, const char *path,
 		}
 	}
 
+if(){
+	
+}
 	retval = resolved->buf;
 
 error_out:
